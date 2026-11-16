@@ -1,0 +1,16 @@
+.git
+.gitignore
+.dockerignore
+.env
+Dockerfile*
+compose.yaml
+proxy.yaml
+haproxy/
+nginx/
+deploy.sh
+schema.pdf
+README.md
+LICENSE
+venv/
+__pycache__/
+*.pyc
